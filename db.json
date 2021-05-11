@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@abc.com",
+      "password": "SummerSummer"
+    },
+    {
+      "first_name": "matt",
+      "last_name": "green",
+      "email": "matt.s.g@hotmail.com",
+      "password": "SummerSummer",
+      "id": 3
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Green",
+      "email": "i.android@hotmail.com",
+      "password": "SummerSummer",
+      "id": 5
+    }
+  ],
+  "todos": [
+    {
+      "userID": 3,
+      "task": "sweep",
+      "catagory": "house chores",
+      "priority": "medium",
+      "duedate": "2020-11-04",
+      "id": 2
+    },
+    {
+      "userID": 3,
+      "task": "run 5k",
+      "catagory": "exercise",
+      "priority": "high",
+      "duedate": "2020-11-03",
+      "id": 3
+    },
+    {
+      "userID": 3,
+      "task": "marking",
+      "catagory": "school",
+      "priority": "high",
+      "duedate": "2020-11-05",
+      "id": 4
+    }
+  ]
+}
